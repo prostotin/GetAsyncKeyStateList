@@ -12,7 +12,7 @@ int main()
 	
 	for (;;) {	
 		std::cin >> c;
-		myfile << "else if (GetAsyncKeyState(" << c << ") & 0x8000) {} //if key " << c << " is pressed.\n" << std::endl;
+		myfile << "else if (GetAsyncKeyState(" << std::hex << int(c) << ") & 0x8000) {} //if key " << c << " is pressed.\n" << std::endl;
 		if (c == 'm') {
 			return 0;
 		}
