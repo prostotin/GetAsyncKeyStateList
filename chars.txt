@@ -1,52 +1,52 @@
-else if (GetAsyncKeyState(q) & 0x8000) {} //if key q is pressed.
+if (GetAsyncKeyState(71) & 0x8000) {} //if key q is pressed.
 
-else if (GetAsyncKeyState(w) & 0x8000) {} //if key w is pressed.
+else if (GetAsyncKeyState(77) & 0x8000) {} //if key w is pressed.
 
-else if (GetAsyncKeyState(e) & 0x8000) {} //if key e is pressed.
+else if (GetAsyncKeyState(65) & 0x8000) {} //if key e is pressed.
 
-else if (GetAsyncKeyState(r) & 0x8000) {} //if key r is pressed.
+else if (GetAsyncKeyState(72) & 0x8000) {} //if key r is pressed.
 
-else if (GetAsyncKeyState(t) & 0x8000) {} //if key t is pressed.
+else if (GetAsyncKeyState(74) & 0x8000) {} //if key t is pressed.
 
-else if (GetAsyncKeyState(y) & 0x8000) {} //if key y is pressed.
+else if (GetAsyncKeyState(79) & 0x8000) {} //if key y is pressed.
 
-else if (GetAsyncKeyState(u) & 0x8000) {} //if key u is pressed.
+else if (GetAsyncKeyState(75) & 0x8000) {} //if key u is pressed.
 
-else if (GetAsyncKeyState(i) & 0x8000) {} //if key i is pressed.
+else if (GetAsyncKeyState(69) & 0x8000) {} //if key i is pressed.
 
-else if (GetAsyncKeyState(o) & 0x8000) {} //if key o is pressed.
+else if (GetAsyncKeyState(6f) & 0x8000) {} //if key o is pressed.
 
-else if (GetAsyncKeyState(p) & 0x8000) {} //if key p is pressed.
+else if (GetAsyncKeyState(70) & 0x8000) {} //if key p is pressed.
 
-else if (GetAsyncKeyState(a) & 0x8000) {} //if key a is pressed.
+else if (GetAsyncKeyState(61) & 0x8000) {} //if key a is pressed.
 
-else if (GetAsyncKeyState(s) & 0x8000) {} //if key s is pressed.
+else if (GetAsyncKeyState(73) & 0x8000) {} //if key s is pressed.
 
-else if (GetAsyncKeyState(d) & 0x8000) {} //if key d is pressed.
+else if (GetAsyncKeyState(64) & 0x8000) {} //if key d is pressed.
 
-else if (GetAsyncKeyState(f) & 0x8000) {} //if key f is pressed.
+else if (GetAsyncKeyState(66) & 0x8000) {} //if key f is pressed.
 
-else if (GetAsyncKeyState(g) & 0x8000) {} //if key g is pressed.
+else if (GetAsyncKeyState(67) & 0x8000) {} //if key g is pressed.
 
-else if (GetAsyncKeyState(h) & 0x8000) {} //if key h is pressed.
+else if (GetAsyncKeyState(68) & 0x8000) {} //if key h is pressed.
 
-else if (GetAsyncKeyState(j) & 0x8000) {} //if key j is pressed.
+else if (GetAsyncKeyState(6a) & 0x8000) {} //if key j is pressed.
 
-else if (GetAsyncKeyState(k) & 0x8000) {} //if key k is pressed.
+else if (GetAsyncKeyState(6b) & 0x8000) {} //if key k is pressed.
 
-else if (GetAsyncKeyState(l) & 0x8000) {} //if key l is pressed.
+else if (GetAsyncKeyState(6c) & 0x8000) {} //if key l is pressed.
 
-else if (GetAsyncKeyState(z) & 0x8000) {} //if key z is pressed.
+else if (GetAsyncKeyState(7a) & 0x8000) {} //if key z is pressed.
 
-else if (GetAsyncKeyState(x) & 0x8000) {} //if key x is pressed.
+else if (GetAsyncKeyState(78) & 0x8000) {} //if key x is pressed.
 
-else if (GetAsyncKeyState(c) & 0x8000) {} //if key c is pressed.
+else if (GetAsyncKeyState(63) & 0x8000) {} //if key c is pressed.
 
-else if (GetAsyncKeyState(v) & 0x8000) {} //if key v is pressed.
+else if (GetAsyncKeyState(76) & 0x8000) {} //if key v is pressed.
 
-else if (GetAsyncKeyState(b) & 0x8000) {} //if key b is pressed.
+else if (GetAsyncKeyState(62) & 0x8000) {} //if key b is pressed.
 
-else if (GetAsyncKeyState(n) & 0x8000) {} //if key n is pressed.
+else if (GetAsyncKeyState(6e) & 0x8000) {} //if key n is pressed.
 
-else if (GetAsyncKeyState(m) & 0x8000) {} //if key m is pressed.
+else if (GetAsyncKeyState(6d) & 0x8000) {} //if key m is pressed.
 
